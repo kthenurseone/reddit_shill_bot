@@ -17,21 +17,24 @@
 </p>
 
 ## About
-The **Reddit Acount Creator** helps you to create Reddit acounts easily.
+The **Reddit Shill Bot** helps you to shill your project/things easily.
 
 If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenurseone). 
 
 ## Features
-- Create accounts
-- Verify accounts with emails
+- Login automatically
+- Send messages automatically
+- Closes automatically when job is done
 
 
 
 ## Installation
 1) Buy lisance [@kthenurseone](https://t.me/kthenurseone)
 2) Buy proxies
-3) Set passwords
-4) Thats all !
+3) Create accounts with [account creator ](https://github.com/kthenurseone/reddit_account_creator)
+4) Set the messages which you want to send
+5) Set the link which you want to comment
+6) And run the bot !
 
 
 ## Images
